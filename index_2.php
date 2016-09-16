@@ -1,7 +1,21 @@
+<!Doctype html>
+<html>
+<head>
+
+    <meta charset="UHF-8">
+    <title>OOP - Assignment</title>
+    <?php include("index_1.php"); ?>
+
+</head>
+
+<body>
+
 <?php
-/**
- * Created by PhpStorm.
- * User: session1
- * Date: 9/16/16
- * Time: 1:44 PM
- */
+
+?>
+
+</body>
+
+</html>
+
+
